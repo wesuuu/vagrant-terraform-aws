@@ -28,4 +28,4 @@ Host default
   LogLevel FATAL
 ```
 
-Copy the above output but modify the Host from "default" to whatever you want to name it and paste the info into your `~/.ssh/config` file. You can now connect a code editor like Visual Studio Code (vscode) to your VM (to do this with vscode, make sure you have remote development installed https://code.visualstudio.com/docs/remote/ssh and connect to the host you defined).
+Copy the output from your command but modify the Host from "default" to whatever you want to name it and paste the info into your `~/.ssh/config` file. You can now connect a code editor like Visual Studio Code (vscode) to your VM (to do this with vscode, make sure you have remote development installed https://code.visualstudio.com/docs/remote/ssh and connect to the host you defined).
